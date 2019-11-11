@@ -7,8 +7,8 @@ date: 2019-11-11T17:29:03.611Z
 description: >-
   Ständig tillväxt har blivit till den enda sanna guden för industri, finans och
   politik. Ett system som vi skapat, utan att ta hänsyn till konsekvenserna. Det
-  räcker egentligen med att titta på hur många, många företag som tjänar enorma
-  summor pengar betalar andra företag nästan lika stora summor, för att de ska
+  räcker egentligen med att se hur många företag, som tjänar enorma summor
+  pengar, betalar andra företag nästan lika stora summor, för att de ska
   utveckla tjänster som hjälper fler företag att tjäna ännu mer pengar.
   Samtidigt finns det överskott i alla led, och skyhöga löner för många på höga
   positioner. Lönerna som används för att konsumera så att företag ska tjäna mer
