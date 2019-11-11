@@ -3,26 +3,26 @@
 module.exports = {
   url: "https://lumen.netlify.com",
   pathPrefix: "/",
-  title: "Blog by John Doe",
+  title: "Beckius Betraktelser",
   subtitle:
-    "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
-  copyright: "© All rights reserved.",
+    "Klimatförändringar, ekonomi, konsumtion och design, hur hänger det ihop egentligen? Dagliga funderingar kring hur vårt samhälle tar sig an klimatförändringarna.",
+  copyright: "© " + this.author.name + " " + Date.now("YYYY"),
   disqusShortname: "",
   postsPerPage: 4,
   googleAnalyticsId: "UA-73379983-2",
   useKatex: false,
   menu: [
     {
-      label: "Articles",
+      label: "Betraktelser",
       path: "/"
     },
     {
-      label: "About me",
-      path: "/pages/about"
+      label: "Om mig",
+      path: "/pages/om"
     },
     {
-      label: "Contact me",
-      path: "/pages/contacts"
+      label: "Kontakt",
+      path: "/pages/kontakt"
     }
   ],
   author: {
