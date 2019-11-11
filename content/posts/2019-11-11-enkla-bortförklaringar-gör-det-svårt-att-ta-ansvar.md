@@ -2,7 +2,7 @@
 template: post
 title: Enkla bortförklaringar gör det svårt att ta ansvar
 slug: enkla-bortforklaringar
-draft: true
+draft: false
 date: 2019-11-10T17:16:26.852Z
 description: För att omställningen ska ta fart behöver fler i maktposition ta ansvar.
 category: Hållbar utveckling
