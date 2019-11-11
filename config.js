@@ -18,11 +18,11 @@ module.exports = {
     },
     {
       label: "Om mig",
-      path: "/pages/om"
+      path: "/sidor/om"
     },
     {
       label: "Kontakt",
-      path: "/pages/kontakt"
+      path: "/sidor/kontakt"
     }
   ],
   author: {
