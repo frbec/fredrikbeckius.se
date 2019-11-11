@@ -1,6 +1,6 @@
 ---
 template: page
-title: About me
+title: Om mig
 slug: /sidor/om
 draft: false
 ---
