@@ -1,7 +1,7 @@
 ---
 template: page
 title: Om mig
-slug: /sidor/om
+slug: /pages/about
 draft: false
 ---
 Fredrik Beckius
