@@ -1,7 +1,8 @@
 ---
-template: page
-title: Om mig
-slug: /pages/about
+template: "page"
+title: "Om mig"
+slug: "/pages/about"
 draft: false
 ---
+
 Hej
