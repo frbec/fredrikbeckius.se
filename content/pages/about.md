@@ -2,7 +2,7 @@
 template: "page"
 title: "Om mig"
 slug: "/pages/about"
-socialImage: null
+socialImage: "photo.jpg"
 draft: false
 ---
 
