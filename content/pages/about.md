@@ -1,8 +1,7 @@
 ---
 template: page
 title: Om mig
-slug: about
-socialImage: null
+slug: /pages/about
 draft: false
 ---
 
