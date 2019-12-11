@@ -32,14 +32,14 @@ module.exports = {
       "Jag tror på förändring. Varje dag har vi valet att ta ställning för hållbar utveckling i samhället. Ett sätt jag gör det på är att skriva här.",
     contacts: {
       email: "",
-      facebook: "frbec",
+      facebook: "",
       telegram: "#",
-      twitter: "frbec",
+      twitter: "",
       github: "#",
       rss: "",
       vkontakte: "",
       linkedin: "#",
-      instagram: "frbec",
+      instagram: "",
       line: "",
       gitlab: "",
       weibo: ""
